@@ -7,7 +7,6 @@
 
 body {
     background: url('assets/taskiva-bg.svg');
-    background-size: cover;
 }
 
 header nav span {
@@ -15,5 +14,4 @@ header nav span {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
